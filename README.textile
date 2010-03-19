@@ -11,3 +11,4 @@ h3. Requirements:
 * "Growl":http://growl.info/
 * "GrowlNotify":http://growl.info/documentation/growlnotify.php
 * "MacRuby":http://www.macruby.org/
+* sudo macgem install hotcocoa
