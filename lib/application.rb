@@ -28,7 +28,7 @@ class Application
   def queue_timer(interval, message)
     @queue.async do
       loop do
-        sleep interval.to_f * 0.05
+        sleep interval.to_f * 60
         `growlnotify -m "#{message}" StretchMinder`
       end
     end

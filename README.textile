@@ -2,7 +2,7 @@ h1. StretchMinder
 
 Stretch! Stretch I tell you!
 
-A little (kind of) native osx app that reminds me to get up and stretch every x minutes. I say kind of because I used MacRuby to build this app, so you'll have to download MacRuby to run it. Also, it requires Growl & GrowlNotify to actually notify you.
+A little (kind of) native osx app that reminds me to get up and stretch every x minutes. I say kind of because I used MacRuby to build this app, so you'll have to download MacRuby to run it. Also, it requires the hotcocoa gem for the interface and Growl/GrowlNotify to actually notify you.
 
 I think this app is cool because its simple, and even lets you set multiple intervals & messages to be notified on/with! It uses Grand Central Dispatch to asynchronously queue up the notifications.
 
