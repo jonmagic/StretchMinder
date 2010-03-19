@@ -12,3 +12,7 @@ h3. Requirements:
 * "GrowlNotify":http://growl.info/documentation/growlnotify.php
 * "MacRuby":http://www.macruby.org/
 * sudo macgem install hotcocoa
+
+h3. Notes
+
+I checked in a built version of the app, but you can change the code and then recompile by running "macrake build".
